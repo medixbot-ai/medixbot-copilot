@@ -1,4 +1,4 @@
-<center><img src="./assets/medixbot_logo.png" width="300" align="center"/></center>
+<p align="center"><img src="./assets/medixbot_logo.png" width="300" align="center"/></p>
 </br></br>
 
 # Medixbot Physician Copilot
