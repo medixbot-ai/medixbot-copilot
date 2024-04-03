@@ -1,0 +1,2 @@
+class CustomExption(Exception):
+    pass

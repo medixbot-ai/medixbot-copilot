@@ -1,0 +1,9 @@
+ctransformers==0.2.5
+sentence-transformers==2.2.2
+pinecone-client==2.1.0
+langchain==0.0.225
+pypdf
+python-dotenv
+streamlit
+streamlit_chat
+langchain_core
